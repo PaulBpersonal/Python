@@ -1,1 +1,4 @@
-hold file
+post new files to git
+Git add .
+git commit -m "feat: Create index.html"
+git push
